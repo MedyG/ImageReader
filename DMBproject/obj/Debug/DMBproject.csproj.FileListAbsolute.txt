@@ -1,0 +1,14 @@
+d:\users\boaboat\documents\visual studio 2013\Projects\DMBproject\DMBproject\bin\Debug\DMBproject.exe.config
+d:\users\boaboat\documents\visual studio 2013\Projects\DMBproject\DMBproject\bin\Debug\DMBproject.exe
+d:\users\boaboat\documents\visual studio 2013\Projects\DMBproject\DMBproject\bin\Debug\DMBproject.pdb
+d:\users\boaboat\documents\visual studio 2013\Projects\DMBproject\DMBproject\obj\Debug\DMBproject.Form1.resources
+d:\users\boaboat\documents\visual studio 2013\Projects\DMBproject\DMBproject\obj\Debug\DMBproject.Properties.Resources.resources
+d:\users\boaboat\documents\visual studio 2013\Projects\DMBproject\DMBproject\obj\Debug\DMBproject.csproj.GenerateResource.Cache
+d:\users\boaboat\documents\visual studio 2013\Projects\DMBproject\DMBproject\obj\Debug\DMBproject.exe
+d:\users\boaboat\documents\visual studio 2013\Projects\DMBproject\DMBproject\obj\Debug\DMBproject.pdb
+D:\Users\Boaboat\Documents\Visual Studio 2013\Projects\DMBproject\DMBproject\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Users\Boaboat\Documents\Visual Studio 2013\Projects\DMBproject\DMBproject\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Users\Boaboat\Documents\Visual Studio 2013\Projects\DMBproject\DMBproject\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Users\Boaboat\Documents\Visual Studio 2013\Projects\DMBproject\DMBproject\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Users\Boaboat\Documents\Visual Studio 2013\Projects\DMBproject\DMBproject\obj\Debug\DMBproject.csproj.ResolveComReference.cache
+D:\Users\Boaboat\Documents\Visual Studio 2013\Projects\DMBproject\DMBproject\obj\Debug\DMBproject.csprojResolveAssemblyReference.cache
